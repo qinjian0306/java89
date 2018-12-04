@@ -1,4 +1,4 @@
-package com.smr.pc.java89.lamdba.lamdba07;
+package com.smr.pc.java89.lamdba.lamdba08;
 
 
 import java.util.ArrayList;
